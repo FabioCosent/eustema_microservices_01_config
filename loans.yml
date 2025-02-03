@@ -1,1 +1,4 @@
+environment: "default"
+name: "loans"
 
+api_key: "aaaaaaaaa"
